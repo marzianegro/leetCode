@@ -1,0 +1,14 @@
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/bin/Debug/net8.0/LeetCode01
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/bin/Debug/net8.0/LeetCode01.deps.json
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/bin/Debug/net8.0/LeetCode01.runtimeconfig.json
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/bin/Debug/net8.0/LeetCode01.dll
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/bin/Debug/net8.0/LeetCode01.pdb
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/obj/Debug/net8.0/LeetCode01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/obj/Debug/net8.0/LeetCode01.AssemblyInfoInputs.cache
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/obj/Debug/net8.0/LeetCode01.AssemblyInfo.cs
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/obj/Debug/net8.0/LeetCode01.csproj.CoreCompileInputs.cache
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/obj/Debug/net8.0/LeetCode01.dll
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/obj/Debug/net8.0/refint/LeetCode01.dll
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/obj/Debug/net8.0/LeetCode01.pdb
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/obj/Debug/net8.0/LeetCode01.genruntimeconfig.cache
+/Users/marzianegro/Desktop/LeetCode/LeetCode01/obj/Debug/net8.0/ref/LeetCode01.dll

@@ -1,0 +1,14 @@
+/Users/marzianegro/Desktop/LeetCode/S01/bin/Debug/net8.0/S01
+/Users/marzianegro/Desktop/LeetCode/S01/bin/Debug/net8.0/S01.deps.json
+/Users/marzianegro/Desktop/LeetCode/S01/bin/Debug/net8.0/S01.runtimeconfig.json
+/Users/marzianegro/Desktop/LeetCode/S01/bin/Debug/net8.0/S01.dll
+/Users/marzianegro/Desktop/LeetCode/S01/bin/Debug/net8.0/S01.pdb
+/Users/marzianegro/Desktop/LeetCode/S01/obj/Debug/net8.0/S01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marzianegro/Desktop/LeetCode/S01/obj/Debug/net8.0/S01.AssemblyInfoInputs.cache
+/Users/marzianegro/Desktop/LeetCode/S01/obj/Debug/net8.0/S01.AssemblyInfo.cs
+/Users/marzianegro/Desktop/LeetCode/S01/obj/Debug/net8.0/S01.csproj.CoreCompileInputs.cache
+/Users/marzianegro/Desktop/LeetCode/S01/obj/Debug/net8.0/S01.dll
+/Users/marzianegro/Desktop/LeetCode/S01/obj/Debug/net8.0/refint/S01.dll
+/Users/marzianegro/Desktop/LeetCode/S01/obj/Debug/net8.0/S01.pdb
+/Users/marzianegro/Desktop/LeetCode/S01/obj/Debug/net8.0/S01.genruntimeconfig.cache
+/Users/marzianegro/Desktop/LeetCode/S01/obj/Debug/net8.0/ref/S01.dll

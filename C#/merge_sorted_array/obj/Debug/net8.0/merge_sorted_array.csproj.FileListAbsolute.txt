@@ -1,0 +1,14 @@
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/bin/Debug/net8.0/merge_sorted_array
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/bin/Debug/net8.0/merge_sorted_array.deps.json
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/bin/Debug/net8.0/merge_sorted_array.runtimeconfig.json
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/bin/Debug/net8.0/merge_sorted_array.dll
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/bin/Debug/net8.0/merge_sorted_array.pdb
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/obj/Debug/net8.0/merge_sorted_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/obj/Debug/net8.0/merge_sorted_array.AssemblyInfoInputs.cache
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/obj/Debug/net8.0/merge_sorted_array.AssemblyInfo.cs
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/obj/Debug/net8.0/merge_sorted_array.csproj.CoreCompileInputs.cache
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/obj/Debug/net8.0/merge_sorted_array.dll
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/obj/Debug/net8.0/refint/merge_sorted_array.dll
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/obj/Debug/net8.0/merge_sorted_array.pdb
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/obj/Debug/net8.0/merge_sorted_array.genruntimeconfig.cache
+/Users/marzianegro/Desktop/LeetCode/C#/merge_sorted_array/obj/Debug/net8.0/ref/merge_sorted_array.dll
