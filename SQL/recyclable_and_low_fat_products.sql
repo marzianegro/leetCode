@@ -1,3 +1,9 @@
+SELECT product_id
+FROM Products
+-- WHERE low_fats = 'Y' AND recyclable = 'Y'
+WHERE (low_fats, recyclable) IN (('Y', 'Y'))
+ORDER BY product_id;
+
 /***
 	Table: Products
 	+-------------+---------+
@@ -36,9 +42,3 @@
 	+-------------+
 	Explanation: Only products 1 and 3 are both low fat and recyclable.
 ***/
-
-SELECT product_id
-FROM Products
--- WHERE low_fats = 'Y' AND recyclable = 'Y'
-WHERE (low_fats, recyclable) IN (('Y', 'Y'))
-ORDER BY product_id;

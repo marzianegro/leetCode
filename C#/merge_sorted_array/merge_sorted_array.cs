@@ -1,4 +1,42 @@
-﻿/***
+﻿public class Program {
+	public static void Main() {
+		// Test case 1
+		Merge([1,2,3,0,0,0], 3, [2,5,6], 3);
+		// Test case 2
+		Merge([1], 1, [], 0);
+		// Test case 3
+		Merge([0], 0, [1], 1);
+	}
+
+    public static void Merge(int[] nums1, int m, int[] nums2, int n) {
+        Console.WriteLine($"nums1 is of length {nums1.Length}");
+		Console.WriteLine($"nums2 is of length {nums2.Length}");
+		
+		if (n > 0) {
+            nums2.CopyTo(nums1, m);
+        }
+
+		Console.ForegroundColor = ConsoleColor.Yellow;
+		Console.Write("UNSORTED ARRAY");
+		Console.ForegroundColor = ConsoleColor.White;
+		for (int i = 0; i < nums1.Length; i++) {
+			Console.Write($" {nums1[i]}");
+		}
+		Console.WriteLine();
+
+        Array.Sort(nums1);
+
+		Console.ForegroundColor = ConsoleColor.Green;
+		Console.Write("SORTED ARRAY");
+		Console.ForegroundColor = ConsoleColor.White;
+		for (int i = 0; i < nums1.Length; i++) {
+			Console.Write($" {nums1[i]}");
+		}
+		Console.WriteLine('\n');
+    }
+}
+
+/***
 	You are given two integer arrays nums1 and nums2, sorted in non-decreasing order,
 	and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
 	Merge nums1 and nums2 into a single array sorted in non-decreasing order.
@@ -36,41 +74,3 @@
 	
 	Follow up: Can you come up with an algorithm that runs in O(m + n) time?
 ***/
-
-public class Program {
-	public static void Main() {
-		// Test case 1
-		Merge([1,2,3,0,0,0], 3, [2,5,6], 3);
-		// Test case 2
-		Merge([1], 1, [], 0);
-		// Test case 3
-		Merge([0], 0, [1], 1);
-	}
-
-    public static void Merge(int[] nums1, int m, int[] nums2, int n) {
-        Console.WriteLine($"nums1 is of length {nums1.Length}");
-		Console.WriteLine($"nums2 is of length {nums2.Length}");
-		
-		if (n > 0) {
-            nums2.CopyTo(nums1, m);
-        }
-
-		Console.ForegroundColor = ConsoleColor.Yellow;
-		Console.Write("UNSORTED ARRAY");
-		Console.ForegroundColor = ConsoleColor.White;
-		for (int i = 0; i < nums1.Length; i++) {
-			Console.Write($" {nums1[i]}");
-		}
-		Console.WriteLine();
-
-        Array.Sort(nums1);
-
-		Console.ForegroundColor = ConsoleColor.Green;
-		Console.Write("SORTED ARRAY");
-		Console.ForegroundColor = ConsoleColor.White;
-		for (int i = 0; i < nums1.Length; i++) {
-			Console.Write($" {nums1[i]}");
-		}
-		Console.WriteLine('\n');
-    }
-}
