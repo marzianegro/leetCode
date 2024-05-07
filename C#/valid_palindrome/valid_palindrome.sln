@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.11
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "merge_sorted_array", "merge_sorted_array.csproj", "{D942DF01-5C29-46EC-9A3B-94C51819E30B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valid_palindrome", "valid_palindrome.csproj", "{3A7BA1E4-D052-4DD9-A5CB-CD9179C40C33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D942DF01-5C29-46EC-9A3B-94C51819E30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D942DF01-5C29-46EC-9A3B-94C51819E30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D942DF01-5C29-46EC-9A3B-94C51819E30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D942DF01-5C29-46EC-9A3B-94C51819E30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A7BA1E4-D052-4DD9-A5CB-CD9179C40C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7BA1E4-D052-4DD9-A5CB-CD9179C40C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7BA1E4-D052-4DD9-A5CB-CD9179C40C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7BA1E4-D052-4DD9-A5CB-CD9179C40C33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3600FD07-A07D-455D-B8A7-68F40F790B10}
+		SolutionGuid = {F73A7E5F-78E7-45C4-8252-4D29CF359140}
 	EndGlobalSection
 EndGlobal

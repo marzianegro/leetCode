@@ -1,20 +1,22 @@
-﻿public class Program {
+﻿namespace merge_sorted_array;
+
+public class Program {
 	public static void Main() {
 		// Test case 1
-		Merge([1,2,3,0,0,0], 3, [2,5,6], 3);
+		Merge([1, 2, 3, 0, 0, 0], 3, [2,5,6], 3);
 		// Test case 2
 		Merge([1], 1, [], 0);
 		// Test case 3
 		Merge([0], 0, [1], 1);
 	}
 
-    public static void Merge(int[] nums1, int m, int[] nums2, int n) {
-        Console.WriteLine($"nums1 is of length {nums1.Length}");
+	public static void Merge(int[] nums1, int m, int[] nums2, int n) {
+		Console.WriteLine($"nums1 is of length {nums1.Length}");
 		Console.WriteLine($"nums2 is of length {nums2.Length}");
-		
+
 		if (n > 0) {
-            nums2.CopyTo(nums1, m);
-        }
+			nums2.CopyTo(nums1, m);
+		}
 
 		Console.ForegroundColor = ConsoleColor.Yellow;
 		Console.Write("UNSORTED ARRAY");
@@ -24,7 +26,7 @@
 		}
 		Console.WriteLine();
 
-        Array.Sort(nums1);
+		Array.Sort(nums1);
 
 		Console.ForegroundColor = ConsoleColor.Green;
 		Console.Write("SORTED ARRAY");
@@ -33,7 +35,7 @@
 			Console.Write($" {nums1[i]}");
 		}
 		Console.WriteLine('\n');
-    }
+	}
 }
 
 /***

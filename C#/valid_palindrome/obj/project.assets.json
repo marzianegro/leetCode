@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/merge_sorted_array/merge_sorted_array.csproj",
-      "projectName": "merge_sorted_array",
-      "projectPath": "/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/merge_sorted_array/merge_sorted_array.csproj",
+      "projectUniqueName": "/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/valid_palindrome.csproj",
+      "projectName": "valid_palindrome",
+      "projectPath": "/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/valid_palindrome.csproj",
       "packagesPath": "/Users/marzianegro/.nuget/packages/",
-      "outputPath": "/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/merge_sorted_array/obj/",
+      "outputPath": "/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marzianegro/.nuget/NuGet/NuGet.Config"

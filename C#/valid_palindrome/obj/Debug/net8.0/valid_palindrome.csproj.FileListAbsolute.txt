@@ -1,0 +1,15 @@
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/bin/Debug/net8.0/valid_palindrome
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/bin/Debug/net8.0/valid_palindrome.deps.json
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/bin/Debug/net8.0/valid_palindrome.runtimeconfig.json
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/bin/Debug/net8.0/valid_palindrome.dll
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/bin/Debug/net8.0/valid_palindrome.pdb
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/obj/Debug/net8.0/valid_palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/obj/Debug/net8.0/valid_palindrome.AssemblyInfoInputs.cache
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/obj/Debug/net8.0/valid_palindrome.AssemblyInfo.cs
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/obj/Debug/net8.0/valid_palindrome.csproj.CoreCompileInputs.cache
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/obj/Debug/net8.0/valid_palindrome.sourcelink.json
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/obj/Debug/net8.0/valid_palindrome.dll
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/obj/Debug/net8.0/refint/valid_palindrome.dll
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/obj/Debug/net8.0/valid_palindrome.pdb
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/obj/Debug/net8.0/valid_palindrome.genruntimeconfig.cache
+/Users/marzianegro/Desktop/Comp-Sci + Programming/leetCode/C#/valid_palindrome/obj/Debug/net8.0/ref/valid_palindrome.dll
