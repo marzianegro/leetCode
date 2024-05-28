@@ -1,3 +1,5 @@
+-- 1757. Recyclable and Low Fat Products
+
 SELECT product_id
 FROM Products
 -- WHERE low_fats = 'Y' AND recyclable = 'Y'
@@ -21,6 +23,7 @@ ORDER BY product_id;
 	Return the result table in any order.
 
 	The result format is in the following example.
+	
 	Example 1:
 	Input: 
 	Products table:
